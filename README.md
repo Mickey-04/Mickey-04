@@ -42,23 +42,23 @@ const mickey = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mickey-04&show_icons=true&theme=nord&border_color=42D6D4&title_color=FBB1FC&icon_color=42D6D4&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mickey-04&show_icons=true&theme=nord&border_color=42D6D4&title_color=42D6D4&icon_color=42D6D4&text_color=ffffff" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mickey-04&layout=compact&theme=nord&border_color=42D6D4&title_color=42D6D4&text_color=ffffff" width="48%" />
 
-<img src="https://streak-stats.demolab.com?user=Mickey-04&theme=nord&border=FBB1FC&ring=42D6D4&fire=FBB1FC" width="70%" />
+<img src="https://streak-stats.demolab.com?user=Mickey-04&theme=nord&border=42D6D4&ring=42D6D4&fire=FBB1FC" width="70%" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=Mickey-04&no-frame=true&no-bg=true&theme=nord" width="90%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mickey-04&theme=react-dark&color=42D6D4&line=FBB1FC&point=ffffff" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mickey-04&theme=react-dark&color=42D6D4&line=42D6D4&point=ffffff" width="95%" />
 
 </div>
 
 ## Connect
 
-[![Email](https://img.shields.io/badge/Email-FBB1FC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:machindranathkhandare@gmail.com)
+[![Email](https://img.shields.io/badge/Email-42D6D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:machindranathkhandare@gmail.com)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FBB1FC&height=120&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=42D6D4&height=120&section=footer&animation=twinkling" />
 
 </div>
