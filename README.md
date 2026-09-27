@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FBB1FC&height=200&section=header&text=Mickey-04&fontSize=60&animation=twinkling&fontColor=ffffff" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FBB1FC&center=true&vCenter=true&width=500&lines=CS+Student;Networking+%26+Cybersecurity+Enthusiast;Learning+Data+Structures+%26+Algorithms;Open+to+Work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42D6D4&center=true&vCenter=true&width=500&lines=CS+Student;Networking+%26+Cybersecurity+Enthusiast;Learning+Data+Structures+%26+Algorithms;Open+to+Work" alt="Typing SVG" />
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-FBB1FC?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2C&logoColor=white)
 
